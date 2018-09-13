@@ -1,0 +1,116 @@
+Bali
+Bali/Denpasar (Bali)
+Denpasar
+Indonesia Bagian Barat
+Indonesia Bagian Barat/Banten
+Indonesia Bagian Barat/Banten/Serang
+Indonesia Bagian Barat/Banten/Tangerang
+Indonesia Bagian Barat/Banten/Tangerang Selatan
+Indonesia Bagian Barat/DKI Jakarta
+Indonesia Bagian Barat/DKI Jakarta/Jakarta Barat
+Indonesia Bagian Barat/DKI Jakarta/Jakarta Pusat
+Indonesia Bagian Barat/DKI Jakarta/Jakarta Selatan
+Indonesia Bagian Barat/DKI Jakarta/Jakarta Timur
+Indonesia Bagian Barat/DKI Jakarta/Jakarta Utara
+Indonesia Bagian Barat/DKI Jakarta/Kepulauan Seribu
+Indonesia Bagian Barat/Jawa Barat
+Indonesia Bagian Barat/Jawa Barat/Bandung
+Indonesia Bagian Barat/Jawa Barat/Banjar
+Indonesia Bagian Barat/Jawa Barat/Bekasi
+Indonesia Bagian Barat/Jawa Barat/Bogor
+Indonesia Bagian Barat/Jawa Barat/Cilegon
+Indonesia Bagian Barat/Jawa Barat/Cimahi
+Indonesia Bagian Barat/Jawa Barat/Cirebon
+Indonesia Bagian Barat/Jawa Barat/Depok
+Indonesia Bagian Barat/Jawa Barat/Sukabumi
+Indonesia Bagian Barat/Jawa Barat/Tasikmalaya
+Indonesia Bagian Barat/Sumatera
+Indonesia Bagian Barat/Sumatera/Banda Aceh
+Indonesia Bagian Barat/Sumatera/Bandar Lampung
+Indonesia Bagian Barat/Sumatera/Batam
+Indonesia Bagian Barat/Sumatera/Bengkulu
+Indonesia Bagian Barat/Sumatera/Binjai
+Indonesia Bagian Barat/Sumatera/Bukit Tinggi
+Indonesia Bagian Barat/Sumatera/Dumai
+Indonesia Bagian Barat/Sumatera/Jambi
+Indonesia Bagian Barat/Sumatera/Langsa
+Indonesia Bagian Barat/Sumatera/Lhokseumawe
+Indonesia Bagian Barat/Sumatera/Lubuklinggau
+Indonesia Bagian Barat/Sumatera/Medan
+Indonesia Bagian Barat/Sumatera/Metro
+Indonesia Bagian Barat/Sumatera/Padang
+Indonesia Bagian Barat/Sumatera/Padang Sidempuan
+Indonesia Bagian Barat/Sumatera/Palembang
+Indonesia Bagian Barat/Sumatera/Pangkalpinang
+Indonesia Bagian Barat/Sumatera/Pekanbaru
+Indonesia Bagian Barat/Sumatera/Pematangsiantar
+Indonesia Bagian Barat/Sumatera/Prabumulih
+Indonesia Bagian Barat/Sumatera/Tanjungbalai
+Indonesia Bagian Barat/Sumatera/Tanjungpinang
+Indonesia Bagian Barat/Sumatera/Tebingtinggi
+Indonesia Bagian Barat/Yogyakarta
+Indonesia Bagian Timur
+Indonesia Bagian Timur/Jawa Tengah
+Indonesia Bagian Timur/Jawa Tengah/Batang
+Indonesia Bagian Timur/Jawa Tengah/Blora
+Indonesia Bagian Timur/Jawa Tengah/Boyolali
+Indonesia Bagian Timur/Jawa Tengah/Brebes
+Indonesia Bagian Timur/Jawa Tengah/Cilacap
+Indonesia Bagian Timur/Jawa Tengah/Jepara
+Indonesia Bagian Timur/Jawa Tengah/Kudus
+Indonesia Bagian Timur/Jawa Tengah/Magelang
+Indonesia Bagian Timur/Jawa Tengah/Pati
+Indonesia Bagian Timur/Jawa Tengah/Pekalongan
+Indonesia Bagian Timur/Jawa Tengah/Salatiga
+Indonesia Bagian Timur/Jawa Tengah/Semarang
+Indonesia Bagian Timur/Jawa Tengah/Solo
+Indonesia Bagian Timur/Jawa Tengah/Surakarta
+Indonesia Bagian Timur/Jawa Tengah/Tegal
+Indonesia Bagian Timur/Jawa Timur
+Indonesia Bagian Timur/Jawa Timur/Batu
+Indonesia Bagian Timur/Jawa Timur/Blitar
+Indonesia Bagian Timur/Jawa Timur/Bojonegoro
+Indonesia Bagian Timur/Jawa Timur/Gresik
+Indonesia Bagian Timur/Jawa Timur/Kediri
+Indonesia Bagian Timur/Jawa Timur/Lamongan
+Indonesia Bagian Timur/Jawa Timur/Lumajang
+Indonesia Bagian Timur/Jawa Timur/Madiun
+Indonesia Bagian Timur/Jawa Timur/Magetan
+Indonesia Bagian Timur/Jawa Timur/Malang
+Indonesia Bagian Timur/Jawa Timur/Mojokerto
+Indonesia Bagian Timur/Jawa Timur/Nganjuk
+Indonesia Bagian Timur/Jawa Timur/Ngawi
+Indonesia Bagian Timur/Jawa Timur/Pacitan
+Indonesia Bagian Timur/Jawa Timur/Pasuruan
+Indonesia Bagian Timur/Jawa Timur/Probolinggo
+Indonesia Bagian Timur/Jawa Timur/Sidoarjo
+Indonesia Bagian Timur/Jawa Timur/Surabaya
+Indonesia Bagian Timur/Jawa Timur/Tuban
+Indonesia Bagian Timur/Kalimantan
+Indonesia Bagian Timur/Kalimantan/Balikpapan
+Indonesia Bagian Timur/Kalimantan/Banjarbaru
+Indonesia Bagian Timur/Kalimantan/Banjarmasin
+Indonesia Bagian Timur/Kalimantan/Bontang
+Indonesia Bagian Timur/Kalimantan/Palangkaraya
+Indonesia Bagian Timur/Kalimantan/Pontianak
+Indonesia Bagian Timur/Kalimantan/Samarinda
+Indonesia Bagian Timur/Kalimantan/Singkawang
+Indonesia Bagian Timur/Kalimantan/Tarakan
+Indonesia Bagian Timur/Kepulauan Maluku & Papua
+Indonesia Bagian Timur/Kepulauan Maluku & Papua/Ambon
+Indonesia Bagian Timur/Kepulauan Maluku & Papua/Jayapura
+Indonesia Bagian Timur/Kepulauan Maluku & Papua/Sorong
+Indonesia Bagian Timur/Kepulauan Maluku & Papua/Ternate
+Indonesia Bagian Timur/Nusa Tenggara
+Indonesia Bagian Timur/Nusa Tenggara/Bima
+Indonesia Bagian Timur/Nusa Tenggara/Kupang
+Indonesia Bagian Timur/Nusa Tenggara/Mataram
+Indonesia Bagian Timur/Sulawesi
+Indonesia Bagian Timur/Sulawesi/Bau-bau
+Indonesia Bagian Timur/Sulawesi/Bitung
+Indonesia Bagian Timur/Sulawesi/Gorontalo
+Indonesia Bagian Timur/Sulawesi/Makassar
+Indonesia Bagian Timur/Sulawesi/Manado
+Indonesia Bagian Timur/Sulawesi/Palopo
+Indonesia Bagian Timur/Sulawesi/Palu
+Indonesia Bagian Timur/Sulawesi/Parepare
